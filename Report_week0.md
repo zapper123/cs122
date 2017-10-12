@@ -1,7 +1,7 @@
-###Software engineering  practice using C_week0    
+### Software engineering  practice using C_Week0    
 【Zaphod + 《软件工程（C编码实践篇）》MOOC课程作业http://mooc.study.163.com/course/USTC-1000002006 】
 
-##How to start setting a Linux command-line environment for C coding   
+## How to start setting a Linux command-line environment for C coding   
 **如何设置一个Linux命令行的编程环境**
 
 First week of this course，the practice is simple: write, compile and run a "hello world" program in a Linux command-line environment.   
@@ -42,7 +42,7 @@ After installed git ,now we really have our Linux command-line environment, and 
 **Test the newly uploaded code. 重现实验**  
 ![4][6]
 
-###Practice summary：  实验小结
+### Practice summary：  实验小结  
 This practice is not about a "hello world" program. It's about accessing new tools and new environment, and that requires some patience, because new problem will always come up .But if you read the documents or just google it ,most of the time you will find someone else have already met and solved it. So, my experience is: Don't get cold feet, and learn some COMMANDs!  
 此次试验本身的目的还是在于，熟悉新的编程环境，去尝试使用新的工具，不论是Linux命令行，vim编辑器，还是github，甚至实验报告用的Mardown语法，这些对我来说都是全新的。通过这样一个最简单的实验，将这些工具有目的的去使用一次，是个很好的开始。
 
